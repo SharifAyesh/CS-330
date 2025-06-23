@@ -12,11 +12,11 @@ This project serves as a showcase of my ability to plan, build, and refine a coh
 
 ## 1. How Do I Approach Designing Software?
 
-Working on this project provided me with hands-on experience in software design from a graphics perspective. I learned how to think spatially, plan object layout in 3D space, and organize visual elements in a way that makes sense both aesthetically and technically. One key design skill I developed was learning to model realistic objects from primitive shapes—constructing a spoon, for example, required combining cylinders and ellipsoids and carefully manipulating their position and scale.
+Working on this project provided me with hands-on experience in software design from a graphics perspective. I learned how to think spatially, plan object layout in 3D space, and organize visual elements in a way that makes sense both aesthetically and technically. One key design skill I developed was learning to model realistic objects from primitive shapes. Constructing a spoon, for example, required combining cylinders and ellipsoids and carefully manipulating their position and scale.
 
 The design process I followed was iterative and layered. I began by roughly placing shapes to outline the scene's layout, then incrementally refined their geometry, materials, and alignment. Texture design required experimenting with UV scaling and alignment to create natural-looking surfaces, especially on curved objects like the bowl.
 
-In future projects, I will adopt an approach that begins simply, refines in stages, and emphasizes continuous visualization from the user's perspective. This strategy will enable me to create software that is both functional and visually appealing. Additionally, it has enhanced my ability to distinguish between form and function in software components.
+In future projects, I will adopt an approach that begins, refines in stages, and emphasizes continuous visualization from the user's perspective. This strategy will enable me to create software that is both functional and visually appealing. Additionally, it has enhanced my ability to distinguish between form and function in software components.
 
 ## 2. How Do I Approach Developing Programs?
 
