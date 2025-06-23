@@ -10,8 +10,6 @@ My final scene recreates a kitchen countertop, featuring a stone-textured surfac
 
 This project serves as a showcase of my ability to plan, build, and refine a cohesive 3D environment using industry-standard techniques in computational graphics.
 
-
-
 ## 1. How Do I Approach Designing Software?
 
 Working on this project gave me hands-on experience with software design from a graphics perspective. I learned how to think spatially, plan object layout in 3D space, and organize visual elements in a way that makes sense both aesthetically and technically. One key design skill I developed was learning to model realistic objects from primitive shapes—constructing a spoon, for example, required combining cylinders and ellipsoids and carefully manipulating their position and scale.
@@ -19,8 +17,6 @@ Working on this project gave me hands-on experience with software design from a 
 The design process I followed was iterative and layered. I began with rough placement of shapes to outline the scene layout, then incrementally refined their geometry, materials, and alignment. Texture design required experimenting with UV scaling and alignment to make surfaces look natural, especially on curved objects like the bowl.
 
 In future projects, this approach—starting simple, refining in passes, and continuously visualizing from the user’s perspective—will help me build software that’s both functional and visually engaging. It has also improved my ability to separate form from function in software components.
-
----
 
 ## 2. How Do I Approach Developing Programs?
 
@@ -32,7 +28,6 @@ My development skills evolved substantially during the milestones. I transitione
 
 These are all development strategies I will carry into future courses and projects, especially in game development, UI prototyping, or any field that combines graphics with interactivity.
 
-
 ## 3. How Can Computer Science Help Me in Reaching My Goals?
 
 This course and project helped bridge the gap between abstract computer science knowledge and real-world, visual results. Prior to CS-330, my work in computer science had mostly involved back-end logic, algorithms, or command-line applications. Working with OpenGL introduced me to a new way of thinking—how to turn data and math into visual output that users can understand and interact with.
@@ -40,6 +35,3 @@ This course and project helped bridge the gap between abstract computer science 
 Learning how computational graphics and visualizations work has opened the door to future roles in interactive software design, game development, AR/VR, and data visualization. The ability to build and manipulate 3D environments also gives me a strong foundation for future studies in advanced graphics, simulation engines, or creative technologies.
 
 Both professionally and educationally, these skills position me to take on projects that involve real-time rendering, animation, or user-facing interfaces with spatial awareness. I now feel more confident designing intuitive, engaging, and technically sound graphical systems.
-
-
-
